@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi  👋  I'm WenTing
+#### Hi  👋     I'm WenTing
 ***programmer-to-be!*** :octocat:
 
 #### About me 
-- 🌱   I am currently learning **Web Development** at AlphaCamp.
-- 🇹🇼   I am a young woman from Taipei, Taiwan and about to turn 30.
+- I am currently learning **Web Development** at AlphaCamp.
+- I am a young woman from Taipei, Taiwan and about to turn 30.
 - A chocoholic & boba-lover, also super like McDonald's Fries. 🍫🧋🍟
 - Was addicted to social media, but now more crazy for programming!
 - I would say SUMMER 2021 is probably a life-changing moment for me!
