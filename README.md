@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi👋  I'm WenTing
+#### Hi👋\nI'm WenTing
 ***programmer-to-be!***
 
 #### About me 
-- 🌱  I am currently learning **Web Development** at AlphaCamp.
-- 🇹🇼  I am a young woman from Taipei, Taiwan and about to turn 30.
+- 🌱\nI am currently learning **Web Development** at AlphaCamp.
+- 🇹🇼\nI am a young woman from Taipei, Taiwan and about to turn 30.
 - A chocoholic & boba-lover, also super like McDonald's Fries.🍫🧋🍟
 - Was addicted to social media, but now more crazy for programming!
 - I would say SUMMER 2021 is probably a life-changing moment for me!
 
 #### Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/wenting-liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wenting-liu" height="25" width="30" /></a>
-<a href="https://fb.com/wentingliuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wentingliuu" height="25" width="30" /></a>
-<a href="https://instagram.com/wentingliuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wentingliuu" height="25" width="30" /></a>
+<a href="https://linkedin.com/in/wenting-liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wenting-liu" height="20" width="25" /></a>
+<a href="https://fb.com/wentingliuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wentingliuu" height="20" width="25" /></a>
+<a href="https://instagram.com/wentingliuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wentingliuu" height="20" width="25" /></a>
 </p>
 
 #### Languages and Tools
