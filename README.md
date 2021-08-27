@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi👋\nI'm WenTing
-***programmer-to-be!***
+#### Hi:wave:I'm WenTing
+***programmer-to-be!***:octocat:
 
 #### About me 
 - 🌱\nI am currently learning **Web Development** at AlphaCamp.
 - 🇹🇼\nI am a young woman from Taipei, Taiwan and about to turn 30.
-- A chocoholic & boba-lover, also super like McDonald's Fries.🍫🧋🍟
+- A chocoholic & boba-lover, also super like McDonald's Fries.:chocolate_bar::fries:🧋
 - Was addicted to social media, but now more crazy for programming!
 - I would say SUMMER 2021 is probably a life-changing moment for me!
 
