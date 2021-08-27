@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi 👋 I'm WenTing
-***programmer-to-be!*** :octocat:
+#### Hi there👋 
+***I'm WenTing, programmer-to-be!*** :octocat:
 
 #### About me 
 - I am currently learning **Web Development** at AlphaCamp.
