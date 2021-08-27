@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Hi there👋 
-*** I'm WenTing, programmer-to-be! *** :octocat:
+***I'm WenTing, programmer-to-be!*** :octocat:
 
 #### About me 
 - I am currently learning **Web Development** at AlphaCamp.
