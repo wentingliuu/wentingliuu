@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi  👋     I'm WenTing
+#### Hi 👋 I'm WenTing
 ***programmer-to-be!*** :octocat:
 
 #### About me 
