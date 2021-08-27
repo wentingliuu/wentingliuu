@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I'm WenTing from Taipei, Taiwan. 🇹🇼
-
+### Hi there 👋 
+***I'm WenTing from Taipei, Taiwan. 🇹🇼***
+***I'm a chocoholic & boba-lover, also like McDonald's Fries.🍫🧋🍟***
+***Was addicted to Social Media, but now more crazy for programming!***
 ***programmer-to-be!***
 
 - 🌱 I’m currently learning **Web Development at AlphaCamp.**
