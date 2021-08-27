@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ***I'm WenTing, programmer-to-be!*** :octocat:
 
 #### About me 
-- I am currently learning **Web Development** at AlphaCamp.
+- I am currently learning **Web Development** at [AlphaCamp](https://tw.alphacamp.co/).
 - I am a young woman from Taipei, Taiwan and about to turn 30.
 - A chocoholic & boba-lover, also super like McDonald's Fries. 🍫🧋🍟
 - Was addicted to social media, but now more crazy for programming!
