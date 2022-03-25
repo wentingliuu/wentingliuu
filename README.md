@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 #### SKILLS
 ###### FRONT-END
 <a href="https://www.javascript.com/">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
 </a>
 <a href="https://html.com/">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
