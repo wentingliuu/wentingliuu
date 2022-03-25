@@ -64,7 +64,12 @@ Here are some ideas to get you started:
 
 #### CONTACT WITH ME
 <p align="left">
-<a href="https://linkedin.com/in/wenting-liu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wenting-liu" height="20" width="25" /></a>
-<a href="https://fb.com/wentingliuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wentingliuu" height="20" width="25" /></a>
-<a href="https://instagram.com/wentingliuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wentingliuu" height="20" width="25" /></a>
-</p>
+<a href="https://www.linkedin.com/in/wenting-liu/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+<a href="https://wentingliuu.medium.com/">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</a>
+<a href="mailto:wentingliuu@gmail.com">
+  <img src="https://img.shields.io/badge/wentingliuu@gmail.com?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
+</a>
