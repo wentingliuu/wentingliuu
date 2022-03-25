@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 #### SKILLS
 ###### FRONT-END
 <a href="https://www.javascript.com/">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
 <a href="https://html.com/">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -52,13 +52,15 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/">
   <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </a>
-
-###### OTHERS
-
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></a></p>
+<a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a href="https://www.heroku.com/">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+</a>
 
 #### CONTACT WITH ME
 <p align="left">
