@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </a>
+
 ###### BACK-END
 <a href="https://nodejs.org/en/">
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -51,6 +52,7 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/">
   <img src="https://img.shields.io/badge/Express.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </a>
+
 ###### OTHERS
 
 <p align="left">
