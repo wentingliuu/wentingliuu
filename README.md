@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 #### Hi there👋 
 ***I'm WenTing, programmer-to-be!*** :octocat:
 
+
 #### ABOUT ME
-- I am currently learning **Web Development** at [AlphaCamp](https://tw.alphacamp.co/).
+- Currently learning **Web Development** at [ALPHACamp](https://tw.alphacamp.co/) & [Udemy](https://www.udemy.com/).
 - A chocoholic & boba-lover, also super like McDonald's Fries. 🍫🧋🍟
 - Was addicted to social media, but now more crazy for programming!
 - I would say SUMMER 2021 is probably a life-changing moment for me!
+
 
 #### SKILLS
 ###### FRONT-END
@@ -45,6 +47,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </a>
 
+
 ###### BACK-END
 <a href="https://nodejs.org/en/">
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -61,6 +64,7 @@ Here are some ideas to get you started:
 <a href="https://www.heroku.com/">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
+
 
 #### CONTACT
 <p align="left">
