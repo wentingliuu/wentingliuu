@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/wenting-liu/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </a>
-<a href="https://wentingliuu.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
 <a href="mailto:wentingliuu@gmail.com">
   <img src="https://img.shields.io/badge/wentingliuu@gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
+</a>
+<a href="https://wentingliuu.medium.com/">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>
