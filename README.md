@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 </a>
-<a href="https://sass-lang.com/">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-</a>
 <a href="https://vuejs.org/">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+</a>
+<a href="https://sass-lang.com/">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 </a>
 <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
 
-#### CONTACT WITH ME
+#### CONTACT
 <p align="left">
 <a href="https://www.linkedin.com/in/wenting-liu/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
