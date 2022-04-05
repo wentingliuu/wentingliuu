@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ## PORTFOLIO 
 | **Project**           | **Demo**    | **Skills**                                          |
 | --------------------- |:-----------:| :-------------------------------------------------- |
+| 🌟 50 Mini Projects 🌟  |[Demo](https://wentingliuu.github.io/50projects50days/) | `Javascript` `CSS` `HTML` `Animation`                      |
 | 🌟 Flag Quiz Game 🌟  |[Demo](https://wentingliuu.github.io/flag-quiz-game)    | `FE` `Vue.js` `Sass/SCSS` `RWD` `Mini Game`                |
 | Restaurant Forum (FE) |[Demo](https://wentingliuu.github.io/restaurant-forum)  | `FE` `Vue.js` `Bootstrap` `Axios`                          |
 | AlphoShop             |[Demo](https://wentingliuu.github.io/alpha-shop)        | `FE` `Sass/SCSS` `RWD` `Dark Mode`                         |
@@ -41,8 +42,7 @@ Here are some ideas to get you started:
 | Expense Tracker       |[Demo](https://morning-wave-00395.herokuapp.com/)       | `BE` `Node.js` `Express.js` `MongoDB` `Passport-jwt`       |
 | Card Memorizing Game  |[Demo](https://codepen.io/wentingliuu/full/ExXaKpK)     | `Javascript` `CSS` `HTML` `MVCFramework`                   |
 | RGB to HEX converter  |[Demo](https://codepen.io/wentingliuu/full/KKmvjyq)     | `Javascript` `CSS` `HTML`                                  |
-| AlphaPos              |[Demo](https://wentingliuu.github.io/alphapos)          | `Javascript` `CSS` `HTML`                                  |
-| 50 mini projects      |[Demo](https://wentingliuu.github.io/50projects50days/) | `Javascript` `CSS` `HTML` `Animation`                      |
+
 <br>
 
 ## SKILLS
