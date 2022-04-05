@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ***I'm WenTing, programmer-to-be!*** :octocat:
 
 
+
 ### ABOUT ME
 - A chocoholic & boba-lover, also super like McDonald's Fries. 🍫🧋🍟
 - Was addicted to social media, but now more crazy for programming!
@@ -26,6 +27,24 @@ Here are some ideas to get you started:
 - [#50ProjectsIn50Days](https://github.com/wentingliuu/50projects50days) in progress, also take notes on [Medium](https://wentingliuu.medium.com/50projects50days-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-46a81a2cede) (written in Chinese).
 
 ![#50ProjectsIn50Days](https://github.com/wentingliuu/wentingliuu/blob/main/main-page-hover.gif)
+
+
+
+### PORTFOLIO 
+| Project               | Demo    | Skills                                          |
+| --------------------- |:-------:| -----------------------------------------------:|
+| Flag Quiz Game        |         | #FE #Vue.js #Sass/SCSS #RWD #minigame           |
+| Restaurant Forum (FE) |         | #FE #Vue.js #Bootstrap #axios                   |
+| AlphoShop             |         | #FE #Sass/SCSS #RWD #DarkMode                   |
+| Movie List            |         | #FE #Vue.js #Bootstrap #axios                   |
+| Alphitter             |         | #BE #Node.js #Express.js #MySQL #RESTfulAPI     |
+| Restaurant Forum (BE) |         | #BE #Node.js #Express.js #MySQL #passport-jwt   |
+| Expense Tracker       |         | #BE #Node.js #Express.js #MongoDB #passport-jwt |
+| Card Memorizing Game  |         | #Javascript #CSS #HTML #MVCFramework            |
+| RGB to HEX converter  |         | #Javascript #CSS #HTML                          |
+| AlphaPos              |         | #Javascript #CSS #HTML                          |
+| 50 mini projects      |         | #Javascript #CSS #HTML #animation               |
+
 
 
 ### SKILLS
@@ -66,6 +85,7 @@ Here are some ideas to get you started:
 <a href="https://www.heroku.com/">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
+
 
 
 ### CONTACT
