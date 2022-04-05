@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ## PORTFOLIO 
 | **Project**           | **Demo**    | **Skills**                                          |
 | --------------------- |:-----------:| :-------------------------------------------------- |
-| 🌟 50 Mini Projects 🌟  |[Demo](https://wentingliuu.github.io/50projects50days/) | `Javascript` `CSS` `HTML` `Animation`                      |
-| 🌟 Flag Quiz Game 🌟  |[Demo](https://wentingliuu.github.io/flag-quiz-game)    | `FE` `Vue.js` `Sass/SCSS` `RWD` `Mini Game`                |
+| 🌟 50 Mini Projects 🌟 |[Demo](https://wentingliuu.github.io/50projects50days/)| `FE` `Javascript` `CSS` `HTML` `Animation`                 |
+| 🌟 Flag Quiz Game 🌟   |[Demo](https://wentingliuu.github.io/flag-quiz-game)   | `FE` `Vue.js` `Sass/SCSS` `RWD` `Mini Game`                |
 | Restaurant Forum (FE) |[Demo](https://wentingliuu.github.io/restaurant-forum)  | `FE` `Vue.js` `Bootstrap` `Axios`                          |
 | AlphoShop             |[Demo](https://wentingliuu.github.io/alpha-shop)        | `FE` `Sass/SCSS` `RWD` `Dark Mode`                         |
 | Movie List            |[Demo](https://codepen.io/wentingliuu/pen/NWwggGo)      | `FE` `Vue.js` `Bootstrap` `Axios`                          |
