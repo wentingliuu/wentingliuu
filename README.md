@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 | AlphaPos              |[Demo](https://wentingliuu.github.io/alphapos)          | `Javascript` `CSS` `HTML`                                  |
 | 50 mini projects      |[Demo](https://wentingliuu.github.io/50projects50days/) | `Javascript` `CSS` `HTML` `Animation`                      |
 <br>
-<br>
 
 ## SKILLS
 ###### FRONT-END
