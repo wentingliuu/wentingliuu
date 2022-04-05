@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 
 ### PORTFOLIO 
-| Project               | Demo    | Skills                                          |
-| --------------------- |:-------:| -----------------------------------------------:|
-| Flag Quiz Game        |         | #FE #Vue.js #Sass/SCSS #RWD #minigame           |
+| **Project**               | **Demo**    | **Skills**                                          |
+| --------------------- |:-------:| :----------------------------------------------:|
+| Flag Quiz Game        |![Demo](https://wentingliuu.github.io/flag-quiz-game)         | #FE #Vue.js #Sass/SCSS #RWD #minigame           |
 | Restaurant Forum (FE) |         | #FE #Vue.js #Bootstrap #axios                   |
 | AlphoShop             |         | #FE #Sass/SCSS #RWD #DarkMode                   |
 | Movie List            |         | #FE #Vue.js #Bootstrap #axios                   |
