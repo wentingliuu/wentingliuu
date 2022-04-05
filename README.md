@@ -31,19 +31,19 @@ Here are some ideas to get you started:
 
 
 ### PORTFOLIO 
-| **Project**               | **Demo**    | **Skills**                                          |
-| --------------------- |:-------:| :----------------------------------------------:|
-| Flag Quiz Game        |![Demo](https://wentingliuu.github.io/flag-quiz-game)         | #FE #Vue.js #Sass/SCSS #RWD #minigame           |
-| Restaurant Forum (FE) |         | #FE #Vue.js #Bootstrap #axios                   |
-| AlphoShop             |         | #FE #Sass/SCSS #RWD #DarkMode                   |
-| Movie List            |         | #FE #Vue.js #Bootstrap #axios                   |
-| Alphitter             |         | #BE #Node.js #Express.js #MySQL #RESTfulAPI     |
-| Restaurant Forum (BE) |         | #BE #Node.js #Express.js #MySQL #passport-jwt   |
-| Expense Tracker       |         | #BE #Node.js #Express.js #MongoDB #passport-jwt |
-| Card Memorizing Game  |         | #Javascript #CSS #HTML #MVCFramework            |
-| RGB to HEX converter  |         | #Javascript #CSS #HTML                          |
-| AlphaPos              |         | #Javascript #CSS #HTML                          |
-| 50 mini projects      |         | #Javascript #CSS #HTML #animation               |
+| **Project**           | **Demo**    | **Skills**                                          |
+| --------------------- |:-----------:| :--------------------------------------------------:|
+| 🌟 Flag Quiz Game 🌟  |[Demo](https://wentingliuu.github.io/flag-quiz-game)    | #FE #Vue.js #Sass/SCSS #RWD #minigame                |
+| Restaurant Forum (FE) |[Demo](https://wentingliuu.github.io/restaurant-forum)  | #FE #Vue.js #Bootstrap #axios                        |
+| AlphoShop             |[Demo](https://wentingliuu.github.io/alpha-shop)        | #FE #Sass/SCSS #RWD #DarkMode                        |
+| Movie List            |[Demo](https://codepen.io/wentingliuu/pen/NWwggGo)      | #FE #Vue.js #Bootstrap #axios                        |
+| Alphitter             |[Demo](https://sh330035.github.io/twitter-frontend)     | #BE #Node.js #Express.js #MySQL #RESTfulAPI #teamwork|
+| Restaurant Forum (BE) |[Demo](https://floating-dusk-15723.herokuapp.com)       | #BE #Node.js #Express.js #MySQL #passport-jwt        |
+| Expense Tracker       |[Demo](https://morning-wave-00395.herokuapp.com/)       | #BE #Node.js #Express.js #MongoDB #passport-jwt      |
+| Card Memorizing Game  |[Demo](https://codepen.io/wentingliuu/full/ExXaKpK)     | #Javascript #CSS #HTML #MVCFramework                 |
+| RGB to HEX converter  |[Demo](https://codepen.io/wentingliuu/full/KKmvjyq)     | #Javascript #CSS #HTML                               |
+| AlphaPos              |[Demo](https://wentingliuu.github.io/alphapos)          | #Javascript #CSS #HTML                               |
+| 50 mini projects      |[Demo](https://wentingliuu.github.io/50projects50days/) | #Javascript #CSS #HTML #animation                    |
 
 
 
