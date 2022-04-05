@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ![#50ProjectsIn50Days](https://github.com/wentingliuu/wentingliuu/blob/main/main-page-hover.gif)
 <br>
 <br>
-<br>
 
 ## PORTFOLIO 
 | **Project**           | **Demo**    | **Skills**                                          |
@@ -44,7 +43,6 @@ Here are some ideas to get you started:
 | RGB to HEX converter  |[Demo](https://codepen.io/wentingliuu/full/KKmvjyq)     | `Javascript` `CSS` `HTML`                                  |
 | AlphaPos              |[Demo](https://wentingliuu.github.io/alphapos)          | `Javascript` `CSS` `HTML`                                  |
 | 50 mini projects      |[Demo](https://wentingliuu.github.io/50projects50days/) | `Javascript` `CSS` `HTML` `Animation`                      |
-<br>
 <br>
 <br>
 
@@ -69,7 +67,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </a>
 <br>
-<br>
 
 ###### BACK-END
 <a href="https://nodejs.org/en/">
@@ -87,7 +84,6 @@ Here are some ideas to get you started:
 <a href="https://www.heroku.com/">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
-<br>
 <br>
 <br>
 
